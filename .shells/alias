@@ -24,16 +24,9 @@ alias mv='mv -i'
 
 
 # SSH Alias
-alias dcf='ssh rkirti@10.6.16.16'
-alias dcf1='ssh rkirti@10.6.16.10'
-alias dcf2='ssh rkirti@10.6.16.23'
-alias dcfmail='ssh rkirti@10.6.5.215'
+alias wp='ssh manhnd@172.16.2.250'
+alias manhnd='ssh root@manhnd.com'
 
-
-
-
-
-# Git Commands
 # Add and Commit are used as functions
 alias gpo='git push orig'
 alias gp='git pull'
@@ -41,14 +34,6 @@ alias gs='git status'
 alias gd='git-diff'
 alias gr='git-reflog'
 alias glf='git-ls-files'
-
-
-
-# Acad aliases 
-alias cs351='cd ~/code/cs351'
-alias cs331='cd ~/code/cs331'
-alias cs370='cd ~/code/cs370'
-
 
 
 # Shortcut to test quick changes to bashrc
